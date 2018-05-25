@@ -1,0 +1,15 @@
+C:\Users\CH1011432\source\repos\FastFood\FastFood\bin\Debug\FastFood.exe.config
+C:\Users\CH1011432\source\repos\FastFood\FastFood\bin\Debug\FastFood.exe
+C:\Users\CH1011432\source\repos\FastFood\FastFood\bin\Debug\FastFood.pdb
+C:\Users\CH1011432\source\repos\FastFood\FastFood\obj\Debug\FastFood.csprojResolveAssemblyReference.cache
+C:\Users\CH1011432\source\repos\FastFood\FastFood\obj\Debug\CheckoutWindow.g.cs
+C:\Users\CH1011432\source\repos\FastFood\FastFood\obj\Debug\App.g.cs
+C:\Users\CH1011432\source\repos\FastFood\FastFood\obj\Debug\FastFood_MarkupCompile.cache
+C:\Users\CH1011432\source\repos\FastFood\FastFood\obj\Debug\FastFood_MarkupCompile.lref
+C:\Users\CH1011432\source\repos\FastFood\FastFood\obj\Debug\CheckoutWindow.baml
+C:\Users\CH1011432\source\repos\FastFood\FastFood\obj\Debug\FastFood.g.resources
+C:\Users\CH1011432\source\repos\FastFood\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+C:\Users\CH1011432\source\repos\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.cache
+C:\Users\CH1011432\source\repos\FastFood\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\CH1011432\source\repos\FastFood\FastFood\obj\Debug\FastFood.exe
+C:\Users\CH1011432\source\repos\FastFood\FastFood\obj\Debug\FastFood.pdb
